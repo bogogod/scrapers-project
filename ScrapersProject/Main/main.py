@@ -5,7 +5,7 @@ pygame.init()
 # Set up the display
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
-SCREEN_CAPTION = "Farm Fuckers"
+SCREEN_CAPTION = "Lool"
 SCREEN_ICON = pygame.image.load("Assets\submachine-gun.png")
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 pygame.display.set_caption(SCREEN_CAPTION)
